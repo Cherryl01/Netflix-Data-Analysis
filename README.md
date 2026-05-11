@@ -32,6 +32,7 @@ This project explores the Netflix Titles dataset using Python to analyze content
 * NumPy
 * Seaborn
 * Matplotlib
+* Google Colab
 
 ---
 
